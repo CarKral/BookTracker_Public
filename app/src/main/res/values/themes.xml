@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="BookTrackerTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:statusBarColor">@color/black</item>
+
+        w
+    </style>
+
+    <style name="Theme.SplashSplash.Fullscreen" parent="Theme.SplashSplash">
+        <item name="android:actionBarStyle">@style/Widget.Theme.SplashSplash.ActionBar.Fullscreen
+        </item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="Theme.SplashSplash.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.SplashSplash.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.SplashSplash.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!--    <style name="ThemeOverlay.BookTracker.FullscreenContainer" parent="">-->
+    <!--        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>-->
+    <!--        <item name="fullscreenTextColor">@color/light_blue_A200</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="Theme.SplashSplash.NoActionBar">-->
+    <!--        <item name="windowActionBar">false</item>-->
+    <!--        <item name="windowNoTitle">true</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="Theme.SplashSplash.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
+
+    <!--    <style name="Theme.SplashSplash.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+
+</resources>

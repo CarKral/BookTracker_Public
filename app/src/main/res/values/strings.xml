@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Book Tracker</string>
+
+    <string name="book_current_read">Právě čtené</string>
+    <string name="book_to_read">K přečtení</string>
+    <string name="book_unfinished">"Rozečtené</string>
+    <string name="book_wishlist">Seznam přání</string>
+    <string name="book_favorite">Oblíbené</string>
+    <string name="book_unclassified">Nezatříděné</string>
+    <string name="book_borrowed">Zapůjčeno</string>
+    <string name="book_done">Přečtené</string>
+
+    <string name="book">Kniha</string>
+    <string name="e_book">E-book</string>
+    <string name="audiobook">Audiokniha</string>
+
+    <string name="successfully_added_to_library">"Úspěšně přidáno do tvé knihovny</string>
+    <string name="book_already_exist_in_library">"Knihu již máš ve své knihovně</string>
+    <string name="successfully_added_to_bookshelf">"Úspěšně přidáno do tvé knihovny do poličky</string>
+    <string name="successfully_removed_from_library">"Úspěšně odebráno z tvé knihovny z poličky</string>
+    <string name="sign_in_with_google">Vstoupit pomocí Google účtu</string>
+    <string name="give_me_more">Dej mi víc!</string>
+    <string name="loading">Načítání…</string>
+    <string name="nothing_to_see">Tady není nic k vidění!</string>
+    <string name="current_read_title">Právě čtu</string>
+    <string name="no_books">Zatím zde nemáš žádné knihy</string>
+    <string name="add_to">Přidat do poličky</string>
+    <string name="generic_error">Něco se tady nepovedlo</string>
+    <string name="random_note_success">Random poznámka úspěšně přidána</string>
+    <string name="new_reading_success">Nové čtení úspěšně přidáno</string>
+    <string name="just_wait">Jen počkej, už se to blížííí</string>
+    <string name="successfully_log_out">Úspěšně odhlášeno.</string>
+    <string name="successfully_log_in">Úspěšně přihlášeno.</string>
+    <string name="creating_user">Vytvářím uživatele.</string>
+
+    <string name="enter_book_or_author">Název knihy nebo jméno autora</string>
+    <string name="book_delete_success">Kniha úspěšně smazána.</string>
+    <string name="reading_reset_success">Čtení úspěšně vynulováno.</string>
+    <string name="reading_goal_success">Cíl pro tvé čtení byl úspěšně nastaven</string>
+    <string name="reading_goal_successfully_deleted">Cíl pro tvé čtení byl úspěšně smazán</string>
+    <string name="book_update_success">Kniha úspěšně upravena.</string>
+    <string name="book_create_success">Tvá kniha byla úspěšně vytvořena.</string>
+    <string name="user_update_success">Uživatelský profil úspěšně upraven.</string>
+
+    <string name="last_reading_header">Naposledy čteno:</string>
+    <string name="last_reading_pages_header">Naposledy přečteno:</string>
+    <string name="reading_speed_header">Aktuální rychlost čtení:</string>
+    <string name="reading_end_speed_header">Konečná rychlost čtení:</string>
+    <string name="reading_speed_goal_header">Nastavená rychlost čtení:</string>
+    <string name="reading_day_count_header">Počet čtecích dní:</string>
+    <string name="today_page_left_header">Dnes bys měl přečíst ještě:</string>
+    <string name="estimated_reading_time_header">Aktuální dočtení:</string>
+    <string name="reading_time_goal_header">Předpokládané dočtení:</string>
+
+    <string name="book_added_header">Přidáno:</string>
+    <string name="book_started_header">Čteno od:</string>
+    <string name="book_finished_header">Dočteno:</string>
+
+    <string name="page_count">Počet stran</string>
+
+    <string name="published">Vydáno</string>
+    <string name="rating">Hodnocení</string>
+
+    <string name="created">Vytvořil uživatel</string>
+    <string name="created_by_user">Tato kniha byla vytvořena uživatelem.</string>
+    <string name="bookshelf_info_header">Informace o poličce</string>
+    <string name="add_reading">Aktualizovat čtení</string>
+    <string name="finished">Dokončeno</string>
+    <string name="reading_info_header">Informace o čtení</string>
+    <string name="no_way">NÉÉÉÉÉÉ</string>
+    <string name="yes_please">ANO PROSÍM</string>
+    <string name="save_it">ULOŽIT</string>
+    <string name="cancel">ZRUŠIT</string>
+    <string name="delete">SMAZAT</string>
+
+    <string name="reading_goal_header">Nastavení cíle pro čtení</string>
+    <string name="reading_goal_day_pages">Počet stran za den:</string>
+    <string name="reading_goal_finish_in_days">Počet dní k dočtení:</string>
+    <string name="reading_settings">Nastavení</string>
+    <string name="readings_list">Ukázat všechna čtení</string>
+    <string name="reading_goal_set">Nastavit cíl pro čtení</string>
+    <string name="reading_goal_reset">Vynulovat čtení</string>
+    <string name="public_note_section">Veřejná poznámka ke knize</string>
+
+    <string name="not_complete_warning">Ejejej bacha! Toto ještě úplně nefunguje. Možná ti teď budou padat aplikace.</string>
+
+    <string name="borrowed_from_label">Vypůjčeno od: (chci vidět jméno!)</string>
+    <string name="borrowed_to_label">Zapůjčeno komu: (chci vidět jméno!)</string>
+
+    <string name="added_date_label">Datum přidání knihy</string>
+    <string name="started_date_label">Datum začátku čtení</string>
+    <string name="finished_date_label">Datum dokončení čtení</string>
+
+    <string name="title_label">Titul</string>
+    <string name="subtitle_label">Podtitul</string>
+    <string name="author_label">Autor/autoři</string>
+    <string name="publisher_label">Vydavatel</string>
+    <string name="published_date_label">Datum vydání</string>
+    <string name="categories_label">Žánr/žánry</string>
+    <string name="current_page_label">Aktuální strana</string>
+
+    <string name="delete_book_label">Smazat knihu z knihovny</string>
+
+    <string name="internet_connection_not_available">Připojení k intenetu není k dispozici.</string>
+    <string name="internet_connection_available">Připojení k intenetu je k dispozici.</string>
+
+
+    <string name="home">Domů</string>
+    <string name="people">Čtenáři</string>
+    <string name="search">Vyhledávání</string>
+    <string name="library">Knihovna</string>
+    <string name="add_reading_empty_field">Potřebuji číslo</string>
+    <string name="add_reading_to_much_pages">To je moc</string>
+    <string name="rebirthing_app">Aplikace byla restartována.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
